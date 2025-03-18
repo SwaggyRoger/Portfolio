@@ -30,7 +30,7 @@ I have collaborated with institutions like **Johns Hopkins University, National 
 - **Description:** Developed an **R-Shiny dashboard** to visualize Taiwan’s **health and economic burden due to PM2.5 pollution**.  
 - **Key Tools:** R, SAS, SQL, Tableau  
 - **Impact:** Provided data-driven insights for policy evaluation, influencing air pollution reduction strategies.  
-- **🔗 Link:** [GitHub Repository](#)  
+- **🔗 Dashboard:** [TBDC National Health Dashboard](http://140.112.119.7:3838/sample-apps/TBDC/National/)  
 
 ---
 
@@ -52,8 +52,10 @@ I have collaborated with institutions like **Johns Hopkins University, National 
 - AI-driven risk assessment  
 
 ### **Data Visualization & Dashboarding**  
-- RShiny, Power BI, Tableau, Plotly  
-- Interactive dashboards & reports  
+- **RShiny, Power BI, Tableau, Plotly**  
+  - [TBDC National Health Dashboard](http://140.112.119.7:3838/sample-apps/TBDC/National/)  
+- **Interactive Dashboards & Reports**  
+  - [ArcGIS Experience Dashboard](https://experience.arcgis.com/experience/80188ab4541d4cd6be9887406ac6ef56)  
 
 ---
 
